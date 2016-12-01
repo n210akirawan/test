@@ -12,6 +12,7 @@ namespace BuildTestApp
 {
     public partial class Form1 : Form
     {
+    //テスト編集
         public Form1()
         {
             InitializeComponent();
